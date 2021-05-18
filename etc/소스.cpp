@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 typedef struct {
 	char name[100];
 	char gender[4];
