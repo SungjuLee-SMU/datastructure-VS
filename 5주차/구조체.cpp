@@ -33,7 +33,7 @@ int main(void)
 {	
 	USERDATA user; 
 	user.nAge = 20;
-	strcpy_s(user.szName,32, "ȫ�浿");
+	strcpy_s(user.szName,32, "ȫ�浿1");
 	user.PrintData(&user);
 
 
