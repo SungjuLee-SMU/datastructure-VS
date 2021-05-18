@@ -1,5 +1,5 @@
 #include <iostream>
-#define MAX 200
+#define MAX 300
 
 using namespace std;
 
