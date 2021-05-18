@@ -40,6 +40,7 @@ int partition(int S[], int low, int high) {
 	for (int i = high; i > low; i--)
 		if (S[i] >= S[pivot])up = i;
 	swap(S, down, up);
+
 	*/
 
 	while (down < up) {
