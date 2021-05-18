@@ -7,6 +7,7 @@ int front;
 int rear;
 int Count;
 // Rear = (Rear + 1) % MAX;
+// 
 //Front = (Front + 1) % MAX;   
 void Create() {
 	front = -1;
