@@ -2,6 +2,7 @@
 using namespace std;
 
 class Sum {
+
 private :
 	int no, count;
 public :
