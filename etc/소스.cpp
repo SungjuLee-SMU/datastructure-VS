@@ -14,7 +14,7 @@ typedef struct {
 
 int main(void)
 {
-	
+	cout << "This homework is too easy " << endl;
 	Data D[4] = {};
 
 	for (int i = 0; i < 4; i++) {
