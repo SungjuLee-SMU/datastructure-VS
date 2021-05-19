@@ -14,6 +14,7 @@ typedef struct {
 
 int main(void)
 {
+	cout << "¼÷Á¦ ³¡"" << endl;
 	Data D[4] = {};
 
 	for (int i = 0; i < 4; i++) {
