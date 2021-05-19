@@ -14,7 +14,7 @@ typedef struct {
 
 int main(void)
 {
-	cout << "槛力 场"" << endl;
+	cout << "槛力 场 "" << endl;
 	Data D[4] = {};
 
 	for (int i = 0; i < 4; i++) {
